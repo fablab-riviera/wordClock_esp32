@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/.pio/libdeps/m5stick-c/M5StickCPlus",
+    "idf.portWin": "COM4"
+}
